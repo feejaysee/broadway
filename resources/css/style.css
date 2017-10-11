@@ -47,8 +47,14 @@ h3 {
 footer {
   background-color: dimgray;
   color: #fff;
+  padding: 10px 0;
+  text-align: left;
+}
+footer nav, footer p {
+  display: inline;
 }
 footer nav ul {
+  display: inline;
   text-align: left;
 }
 footer nav li {
@@ -57,6 +63,4 @@ footer nav li {
 }
 .copyright {
   font-size: 11px;
-  text-align: left;
-  display: inline-block;
 }
